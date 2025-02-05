@@ -1790,7 +1790,7 @@ if ($history === 'Y') {
 
             // log on to the database
 //            oracle_logon($conn, "linemon", "linemon", "CVQSB.TPCA.CZ");
-oracle_logon($conn, "LINEMON", "LINEMON", "CVQSPROD");
+oracle_logon($conn, "LIN", "LINN", "CVQ");
 
 //select all Stamp 1A data
             /* if ($mkldebug==1) { $starttime=microtime_float(); $startmemory=memory_get_usage(); }
